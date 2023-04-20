@@ -1,2 +1,3 @@
 #!/bin/bash
-./HelloWorld 
+./HelloWorld
+./HelloWorld David 
